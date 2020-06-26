@@ -1,5 +1,8 @@
-# AnfaenngerFragen
+# AnfängerFragen
+
 A list with things that annoy people starting out on Programming. This list will be addressed with youtube Videos. The first part is in englich as non german entries are welcome, but the main audience for this servey is german, so I would make it easier for the main audience to collaborate. If you have something to add to 
+
+## Die Liste
 
  *  Mich hat es immer gestört, dass in den Kursen und Büchern geschickt um Ausnahmen herum Gelehrt wird, damit auf keinen Fall
     jemand auf die Idee kommt verwirrt zu sein. Ich bin beim selbst Rumprobieren nach dem ich die Übungen des Kurses oder Buchs gemacht habe immer sofort an 
