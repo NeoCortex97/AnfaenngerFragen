@@ -1,6 +1,6 @@
 # AnfängerFragen
 
-A list with things that annoy people starting out on Programming. This list will be addressed with youtube Videos. The first part is in englich as non german entries are welcome, but the main audience for this servey is german, so I would make it easier for the main audience to collaborate. If you have something to add to 
+A list with things that annoy people starting out on Programming. This list will be addressed with youtube Videos. The first part is in englich as non german entries are welcome, but the main audience for this servey is german, so I would make it easier for the main audience to collaborate. If you have something to add to. To participate please open an Issue and write your suggestions inside of its description. You don't have to sign up for that. Simply click on the Issues tab and click the New Issue button.
 
 ## Die Liste
 
