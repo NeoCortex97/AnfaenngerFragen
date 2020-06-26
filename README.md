@@ -15,3 +15,14 @@ You can also click on this link to get there: [ISSUES](https://github.com/Stefan
     
  *  Ich hätte gerne bei jedem Thema einen Absatz über Gefahren und Einschränkungen gehabt, damit sich von Anfang an ein Verständnis für die Einschränkungen 
     einer Methode ausbilden kann.
+
+ *  Ich hätte gerne von Anfang an gelernt mit den wichtigsten Werkzeugen aus dem Alltag der Sprache umzugehen.  Beispiele:
+    *  Versionsverwaltung
+    *  Debugger
+    *  IDE-Fähigkeiten
+    *  IDEs überhaupt
+    *  Code Dokumentation
+    *  Tooling scripte
+    *  Projekt management und buildsysteme
+    
+ *  Ich hätte gerne im Kurs erklärt bekommen, wo und wie man sich hilfe holt, wenn man nicht weiter kommt.
