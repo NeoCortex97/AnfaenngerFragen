@@ -8,8 +8,8 @@ I will sort the Points to the categories as i see fit, if you don't specify anyt
 
 Es gibt eine folgende Listen:
 
-*   [Allgemeine Fragen]()
-*   [C/C++ spezifische Fragen]()
-*   [Java spezifische Fragen]()
-*   [JavaScript spezifische Fragen]()
-*   [Python spezifische Fragen]()
+*   [Allgemeine Fragen](https://github.com/StefanSchmelz/AnfaenngerFragen/blob/Modularisierung/Allgemein.md)
+*   [C/C++ spezifische Fragen](https://github.com/StefanSchmelz/AnfaenngerFragen/blob/Modularisierung/C_Cpp.md)
+*   [Java spezifische Fragen](https://github.com/StefanSchmelz/AnfaenngerFragen/blob/Modularisierung/Java.md)
+*   [JavaScript spezifische Fragen](https://github.com/StefanSchmelz/AnfaenngerFragen/blob/Modularisierung/JavaScript.md)
+*   [Python spezifische Fragen](https://github.com/StefanSchmelz/AnfaenngerFragen/blob/Modularisierung/Python.md)
