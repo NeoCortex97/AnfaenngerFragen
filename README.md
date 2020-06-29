@@ -13,3 +13,4 @@ Es gibt eine folgende Listen:
 *   [Java spezifische Fragen](https://github.com/StefanSchmelz/AnfaenngerFragen/blob/master/categories/Java.md)
 *   [JavaScript spezifische Fragen](https://github.com/StefanSchmelz/AnfaenngerFragen/blob/master/categories/JavaScript.md)
 *   [Python spezifische Fragen](https://github.com/StefanSchmelz/AnfaenngerFragen/blob/master/categories/Python.md)
+*   [C# spezifische Fragen](https://github.com/StefanSchmelz/AnfaenngerFragen/blob/master/categories/CSharp.md)
