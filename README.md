@@ -26,3 +26,12 @@ You can also click on this link to get there: [ISSUES](https://github.com/Stefan
     *  Projekt management und buildsysteme
     
  *  Ich hätte gerne im Kurs erklärt bekommen, wo und wie man sich hilfe holt, wenn man nicht weiter kommt.
+ 
+ *  Ich hätte gerne mehr Code-Beispiele oder Schritt-für-Schritt Erklärungen bekommen. Für mich war
+    das Konzept von Programmieren an der Uni ziemlich neu und ich hatte ein wenig Probleme mich an die vielen neuen Konzepte zu gewöhnen.
+
+ *  Ich hätte gerne praktische Anwendungen für die komplexeren Themen gesehen. So themen wie:
+    *  Generics / Templates
+    *  Polymorphismus
+    *  Graphen
+    *  Pointer
