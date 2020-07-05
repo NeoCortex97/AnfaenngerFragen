@@ -14,4 +14,4 @@ Es gibt eine folgende Listen:
 *   [JavaScript spezifische Fragen](https://github.com/StefanSchmelz/AnfaenngerFragen/blob/master/categories/JavaScript.md)
 *   [Python spezifische Fragen](https://github.com/StefanSchmelz/AnfaenngerFragen/blob/master/categories/Python.md)
 *   [C# spezifische Fragen](https://github.com/StefanSchmelz/AnfaenngerFragen/blob/master/categories/CSharp.md)
-*   [Rust spezifische Fragen](https://github.coim/StefanSchmelz/AnnfaengerFrage/blob/master/categories/Rust.md)
+*   [Rust spezifische Fragen](https://github.com/StefanSchmelz/AnfaenngerFragen/blob/master/categories/Rust.md)
